@@ -133,3 +133,9 @@ python3 -m pip install -U yt-dlp
 
 # Spotify downloader
 pip install spotdl
+
+
+# Install PdfGrep
+
+sudo apt install -y pdfgrep
+
