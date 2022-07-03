@@ -117,7 +117,7 @@ flatpak install flathub com.github._4lex4.ScanTailor-Advanced -y
 sudo apt install -y  git hub
 
 
-# install git CLI succsesor of git hub
+# install git CLI successor of git hub
 
 curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
 sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg
