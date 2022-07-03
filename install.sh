@@ -139,3 +139,6 @@ pip install spotdl
 
 sudo apt install -y pdfgrep
 
+# install zip
+
+sudo apt install -y zip
