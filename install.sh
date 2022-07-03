@@ -127,3 +127,9 @@ sudo apt install gh
 
 # install battery management
 sudo apt install -y tlp
+
+# Yt-dlp downloader
+python3 -m pip install -U yt-dlp
+
+# Spotify downloader
+pip install spotdl
