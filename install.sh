@@ -125,8 +125,5 @@ echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githu
 sudo apt update
 sudo apt install gh
 
-
-
-
-
-
+# install battery management
+sudo apt install -y tlp
