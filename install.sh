@@ -142,3 +142,7 @@ sudo apt install -y pdfgrep
 # install zip
 
 sudo apt install -y zip
+
+# install Micsro$oft fonts for LibreOffice
+
+sudo apt install -y ttf-mscorefonts-installer
