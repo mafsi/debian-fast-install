@@ -150,12 +150,12 @@ sudo apt install -y ttf-mscorefonts-installer
 # Substituting Calibri And Cambria Fonts
 sudo apt-get install fonts-crosextra-carlito fonts-crosextra-caladea
 
-# install aditional Tesseract languages
-
-sudo apt install - y tesseract-ocr-deu # german
-sudo apt install - y tesseract-ocr-ell # greek
-sudo apt install - y tesseract-ocr-ron # romanian
-sudo apt install - y tesseract-ocr-fra # french
-sudo apt install - y tesseract-ocr-grc # ancient greek
-sudo apt install - y tesseract-ocr-ita # italian
-sudo apt install - y tesseract-ocr-lat # latin
+# install aditional Tesseract languages & Tesseract OCR
+sudo apt install -y tesseract-ocr
+sudo apt install -y tesseract-ocr-deu # german
+sudo apt install -y tesseract-ocr-ell # greek
+sudo apt install -y tesseract-ocr-ron # romanian
+sudo apt install -y tesseract-ocr-fra # french
+sudo apt install -y tesseract-ocr-grc # ancient greek
+sudo apt install -y tesseract-ocr-ita # italian
+sudo apt install -y tesseract-ocr-lat # latin
