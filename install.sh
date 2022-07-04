@@ -146,3 +146,6 @@ sudo apt install -y zip
 # install Micsro$oft fonts for LibreOffice
 
 sudo apt install -y ttf-mscorefonts-installer
+
+# Substituting Calibri And Cambria Fonts
+sudo apt-get install fonts-crosextra-carlito fonts-crosextra-caladea
