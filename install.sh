@@ -159,3 +159,12 @@ sudo apt install -y tesseract-ocr-fra # french
 sudo apt install -y tesseract-ocr-grc # ancient greek
 sudo apt install -y tesseract-ocr-ita # italian
 sudo apt install -y tesseract-ocr-lat # latin
+
+# install pdftk 
+
+# pdftk port to java - a tool for manipulating PDF documents If PDF
+# is electronic paper, then PDFtk is an electronic stapler-remover,
+# hole-punch, binder, secret-decoder-ring, and X-Ray-glasses. PDFtk is a
+# simple tool for doing everyday things with PDF documents.
+
+sudo apt install -y pdftk-java
