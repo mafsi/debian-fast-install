@@ -167,4 +167,8 @@ sudo apt install -y tesseract-ocr-lat # latin
 # hole-punch, binder, secret-decoder-ring, and X-Ray-glasses. PDFtk is a
 # simple tool for doing everyday things with PDF documents.
 
-sudo apt install -y pdftk-java
+sudo apt install -y pdftk-java pdftk
+
+
+# install most to colorize man pages
+sudo apt install -y most
